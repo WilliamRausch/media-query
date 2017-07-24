@@ -131,6 +131,9 @@ header{
     
       #main_content{
     background-color: lightblue;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
    }
    #sidebar_content{
         background-color:lightyellow;
